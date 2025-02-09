@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quiz App
 
 ## Project Overview
