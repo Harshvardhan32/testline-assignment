@@ -96,4 +96,4 @@ Here are some screenshots of the app in action:
 
 Here is a short video demonstrating the Quiz App:
 
-[Watch the Video of the Quiz App](./src/assets/videos/demo-video.mp4)
+[Watch the Video of the Quiz App](https://drive.google.com/file/d/1yBvosluZlX_mwZOUmhh7Gh62kmAgkPjf/view?usp=sharing)
